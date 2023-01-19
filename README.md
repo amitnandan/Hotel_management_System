@@ -7,5 +7,39 @@ and the ability to manage rooms, employees , drivers and customers .
 
 ####   
 
-![Screenshot](ss.png)
+![Screenshot](Hotel-Management-System/src/icons/ss1.png)
+
+
+####   
+
+![Screenshot](Hotel-Management-System/src/icons/ss2.png)
+
+####   
+
+
+![Screenshot](Hotel-Management-System/src/icons/ss3.png)
+
+
+####   
+
+
+![Screenshot](Hotel-Management-System/src/icons/ss4.png)
+
+
+####   
+
+
+![Screenshot](Hotel-Management-System/src/icons/ss5.png)
+
+
+####   
+
+
+![Screenshot](Hotel-Management-System/src/icons/ss6.png)
+
+####   
+
+![Screenshot](Hotel-Management-System/src/icons/ss7.png)
+
+
 
