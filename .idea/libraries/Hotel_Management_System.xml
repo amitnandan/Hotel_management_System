@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Hotel-Management-System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hotel-Management-System/mysql-connector-java-8.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hotel-Management-System/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
